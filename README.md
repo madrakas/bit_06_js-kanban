@@ -91,6 +91,6 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
-[Favicon generator](https://realfavicongenerator.net/)
-[Font Awsome](https://fontawesome.com/v4/)
-[Dead server](https://www.npmjs.com/package/dead-server) - Live server alternative with better maintenance.
+* [Favicon generator](https://realfavicongenerator.net/)
+* [Font Awsome](https://fontawesome.com/v4/)
+* [Dead server](https://www.npmjs.com/package/dead-server) - Live server alternative with better maintenance.
